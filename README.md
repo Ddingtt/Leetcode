@@ -2,7 +2,11 @@
 
 ## 1000题
 
-- [553](https://github.com/Ddingtt/Leetcode/blob/13a77a7622/Go/0553-Optimal-Division/optimal-division.go)
+- Go
+  - [553](https://github.com/Ddingtt/Leetcode/blob/13a77a7622/Go/0553-Optimal-Division/optimal-division.go)
+
+- Java
+  - [553](https://github.com/Ddingtt/Leetcode/blob/master/Java/0553-Optimal-Division/optimal-division.java)
 
 ## 其他
 ### 招商银行2022
