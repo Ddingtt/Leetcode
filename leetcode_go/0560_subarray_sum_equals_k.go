@@ -1,4 +1,4 @@
-package main
+package leetcode_go
 
 func subarraySum(nums []int, k int) int {
 	i, j := 0, 0
@@ -25,8 +25,4 @@ func subarraySum(nums []int, k int) int {
 		}
 	}
 	return res
-}
-
-func main() {
-	println(subarraySum([]int{1, 1, 1}, 2))
 }
